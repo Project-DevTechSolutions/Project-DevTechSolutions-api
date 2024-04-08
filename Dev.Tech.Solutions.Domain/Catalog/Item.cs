@@ -9,6 +9,13 @@ namespace Dev.Tech.Solutions.Domain.Catalog {
         public string Brand {get; set;}
         public decimal Price {get; set;}
 
+        public List<Rating>? Ratings {get; set;}
+
+        public void AddRating (Rating rating)
+        {
+            this.Ratings.Add(rating);
+        }
+
         public Item (string name, string description, string brand, decimal price) {
             if (string.IsNullOrEmpty(name)) {
                 throw new ArgumentNullException(name);
@@ -23,10 +30,11 @@ namespace Dev.Tech.Solutions.Domain.Catalog {
                 throw new ArgumentException ("Price must be greater than zero.");
             }
 
-            Name = name;
-            Description = description;
-            Brand = brand;
-            Price = price;
+            this.Name = name;
+            this.Description = description;
+           this.Brand = brand;
+            this.Price = price;
+            this.Ratings = new List<Rating>();
         }
     }
 }

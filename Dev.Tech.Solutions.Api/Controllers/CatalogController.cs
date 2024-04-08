@@ -1,27 +1,31 @@
 using Microsoft.AspNetCore.Mvc;
 using Dev.Tech.Solutions.Domain.Catalog;
+using Dev.Tech.Solutions.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Dev.Tech.Solutions.Api.Controllers {
+
     [ApiController]
-    [Route("[controller]")]
-    public class CatalogController : ControllerBase {
-        [HttpGet]
-        public IActionResult GetItems() {
-            
-            var items = new List<Item>() {
+    [Route("/catalog")]
 
-                new Item ("Shirts", "Ohio State shirt.", "Nike", 29.99m),
-                new Item ("Shirts", "Ohio State shirt.", "Nike", 44.99m)
-            };
+    public class CatalogController: ControllerBase {
 
-            return Ok(items);
-        }
+    private readonly StoreContext _db;
+
+    public CatalogController(StoreContext db) {
+
+        _db = db;
+    }
+
 
         [HttpGet ("{id:int}")]
-        public IActionResult GetItems(int id) {
-    
-            var item = new Item ("Shirts", "Ohio State shirt.", "Nike", 29.99m);
-            item.Id = id;            
+        public IActionResult GetItem(int id) {
+        
+            var item = Ok(_db.Items.Find(id));
+            if (item == null)
+            {
+                return NotFound();
+            }
 
             return Ok(item);
         }
@@ -29,13 +33,57 @@ namespace Dev.Tech.Solutions.Api.Controllers {
         [HttpPost]
         public IActionResult Post(Item item) {        
 
-            return Created("/catalog/42", item);
+            _db.Items.Add(item);
+            _db.SaveChanges();
+            return Created($"/catalog/{item.Id}",item);
         }
 
+        [HttpPost("{id:int}/ratings")]
+        public IActionResult PostRating(int id, [FromBody] Rating rating) 
+        {
+             var item = _db.Items.Find(id);
+             if(item == null)
+             {
+                return NotFound();
+             }
+             item.AddRating(rating);
+             _db.SaveChanges();
+             return Ok(item);
         
+        }
 
+        [HttpPut("{id:int}")]
+        public IActionResult PutItem(int id, [FromBody] Item item) 
+        {
+            if(id != item.Id)
+            {
+                return BadRequest("");
+            }
 
+            if (_db.Items.Find(id) == null)
+            {
+                return NotFound();
+            }
 
+            _db.Entry(item).State = EntityState.Modified;
+            _db.SaveChanges();
+            return Ok(item);
+
+             //return NoContent();
+        }
+
+        [HttpDelete("{id:int}")]
+        public IActionResult Delete(int id) 
+        {
+            var item = _db.Items.Find(id);
+            if(item ==null)
+            {
+                return NotFound();
+            }
+            _db.Items.Remove(item);
+            _db.SaveChanges();
+             return Ok();
+        }
 
     }
 }

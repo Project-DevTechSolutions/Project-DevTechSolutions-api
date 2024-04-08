@@ -21,3 +21,15 @@
 /Users/kirtanpatel/Desktop/Project-DevTechSolutions-api-1/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/refint/Dev.Tech.Solutions.Domain.dll
 /Users/kirtanpatel/Desktop/Project-DevTechSolutions-api-1/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.pdb
 /Users/kirtanpatel/Desktop/Project-DevTechSolutions-api-1/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/ref/Dev.Tech.Solutions.Domain.dll
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\bin\Debug\net8.0\Dev.Tech.Solutions.Domain.deps.json
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\bin\Debug\net8.0\Dev.Tech.Solutions.Domain.dll
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\bin\Debug\net8.0\Dev.Tech.Solutions.Domain.pdb
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.AssemblyInfoInputs.cache
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.AssemblyInfo.cs
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.sourcelink.json
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.dll
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\refint\Dev.Tech.Solutions.Domain.dll
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.pdb
+C:\Users\ashpa\Documents\Lab 4\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\ref\Dev.Tech.Solutions.Domain.dll
