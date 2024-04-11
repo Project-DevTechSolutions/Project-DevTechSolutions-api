@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Api\\Dev.Tech.Solutions.Api.csproj": {}
+    "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Api/Dev.Tech.Solutions.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Api\\Dev.Tech.Solutions.Api.csproj": {
+    "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Api/Dev.Tech.Solutions.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Api\\Dev.Tech.Solutions.Api.csproj",
+        "projectUniqueName": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Api/Dev.Tech.Solutions.Api.csproj",
         "projectName": "Dev.Tech.Solutions.Api",
-        "projectPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Api\\Dev.Tech.Solutions.Api.csproj",
-        "packagesPath": "C:\\Users\\ashpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Api\\obj\\",
+        "projectPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Api/Dev.Tech.Solutions.Api.csproj",
+        "packagesPath": "/Users/kirtanpatel/.nuget/packages/",
+        "outputPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ashpa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kirtanpatel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Data\\Dev.Tech.Solutions.Data.csproj": {
-                "projectPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Data\\Dev.Tech.Solutions.Data.csproj"
+              "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Data/Dev.Tech.Solutions.Data.csproj": {
+                "projectPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Data/Dev.Tech.Solutions.Data.csproj"
               },
-              "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj": {
-                "projectPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj"
+              "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj": {
+                "projectPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj"
               }
             }
           }
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,6 +48,26 @@
             "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.CodeAnalysis.Workspaces.Common": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -102,21 +117,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Data\\Dev.Tech.Solutions.Data.csproj": {
+    "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Data/Dev.Tech.Solutions.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Data\\Dev.Tech.Solutions.Data.csproj",
+        "projectUniqueName": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Data/Dev.Tech.Solutions.Data.csproj",
         "projectName": "Dev.Tech.Solutions.Data",
-        "projectPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Data\\Dev.Tech.Solutions.Data.csproj",
-        "packagesPath": "C:\\Users\\ashpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Data\\obj\\",
+        "projectPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Data/Dev.Tech.Solutions.Data.csproj",
+        "packagesPath": "/Users/kirtanpatel/.nuget/packages/",
+        "outputPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ashpa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kirtanpatel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -128,8 +143,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj": {
-                "projectPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj"
+              "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj": {
+                "projectPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj"
               }
             }
           }
@@ -138,11 +153,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -176,21 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj": {
+    "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj",
+        "projectUniqueName": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj",
         "projectName": "Dev.Tech.Solutions.Domain",
-        "projectPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj",
-        "packagesPath": "C:\\Users\\ashpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashpa\\Documents\\Lab 4\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\obj\\",
+        "projectPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj",
+        "packagesPath": "/Users/kirtanpatel/.nuget/packages/",
+        "outputPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ashpa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kirtanpatel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -208,11 +218,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -234,7 +239,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
