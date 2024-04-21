@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/kirtanpatel/.nuget/packages/": {}
+    "C:\\Users\\ashpa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj",
+      "projectUniqueName": "C:\\Dev\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj",
       "projectName": "Dev.Tech.Solutions.Domain",
-      "projectPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj",
-      "packagesPath": "/Users/kirtanpatel/.nuget/packages/",
-      "outputPath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/",
+      "projectPath": "C:\\Dev\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj",
+      "packagesPath": "C:\\Users\\ashpa\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kirtanpatel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ashpa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

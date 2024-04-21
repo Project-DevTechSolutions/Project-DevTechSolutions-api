@@ -1,6 +1,6 @@
 using System;
 
-namespace Dev.Tech.Solutions.Domain.Catalog {
+namespace Dev.Tech.Solutions.Domain.Catalog;
     
     public class Item {
         public int Id {get; set;}
@@ -37,4 +37,3 @@ namespace Dev.Tech.Solutions.Domain.Catalog {
             this.Ratings = new List<Rating>();
         }
     }
-}
