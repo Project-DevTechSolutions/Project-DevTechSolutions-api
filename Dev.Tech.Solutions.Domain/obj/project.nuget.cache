@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUMDxwrFzo/M8mBbw+TItOAWxyF5GVsUcvu5HoO3+A1sbeBgNGCr7MPy8Djgmys8vlNe0kP1mYW7yDDMBg3B+A==",
+  "dgSpecHash": "43Kb3tI3Vyht+VDm82bZ2ByQXnQ89ZTmfPkzKXtjxtxGqPXjBJuw6YYkwHdDo3/4Tejn5jkCkUlXnQUTBu73eQ==",
   "success": true,
-  "projectFilePath": "/Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/Dev.Tech.Solutions.Domain.csproj",
+  "projectFilePath": "C:\\Dev\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Dev.Tech.Solutions.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
