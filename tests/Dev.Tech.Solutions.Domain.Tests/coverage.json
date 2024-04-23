@@ -1,0 +1,296 @@
+{
+  "Dev.Tech.Solutions.Domain.dll": {
+    "C:\\Dev\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Orders\\Order.cs": {
+      "Dev.Tech.Solutions.Domain.Orders.Order": {
+        "System.Int32 Dev.Tech.Solutions.Domain.Orders.Order::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Dev.Tech.Solutions.Domain.Orders.OrderItem> Dev.Tech.Solutions.Domain.Orders.Order::get_Items()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Dev.Tech.Solutions.Domain.Orders.Order::get_CreatedDate()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Dev.Tech.Solutions.Domain.Orders.Order::get_TotalPrice()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "Dev.Tech.Solutions.Domain.Orders.OrderItem": {
+        "System.Int32 Dev.Tech.Solutions.Domain.Orders.OrderItem::get_Id()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "Dev.Tech.Solutions.Domain.Catalog.Item Dev.Tech.Solutions.Domain.Orders.OrderItem::get_Item()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Dev.Tech.Solutions.Domain.Orders.OrderItem::get_Quantity()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Dev.Tech.Solutions.Domain.Orders.OrderItem::get_Price()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Dev\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Catalog\\Item.cs": {
+      "Dev.Tech.Solutions.Domain.Catalog.Item": {
+        "System.Int32 Dev.Tech.Solutions.Domain.Catalog.Item::get_Id()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String Dev.Tech.Solutions.Domain.Catalog.Item::get_Name()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String Dev.Tech.Solutions.Domain.Catalog.Item::get_Description()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String Dev.Tech.Solutions.Domain.Catalog.Item::get_Brand()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Dev.Tech.Solutions.Domain.Catalog.Item::get_Price()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Dev.Tech.Solutions.Domain.Catalog.Rating> Dev.Tech.Solutions.Domain.Catalog.Item::get_Ratings()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void Dev.Tech.Solutions.Domain.Catalog.Item::AddRating(Dev.Tech.Solutions.Domain.Catalog.Rating)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void Dev.Tech.Solutions.Domain.Catalog.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 16,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 34,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 52,
+              "EndOffset": 54,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 52,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 81,
+              "EndOffset": 83,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 81,
+              "EndOffset": 95,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Dev\\Project-DevTechSolutions-api\\Dev.Tech.Solutions.Domain\\Catalog\\Rating.cs": {
+      "Dev.Tech.Solutions.Domain.Catalog.Rating": {
+        "System.Int32 Dev.Tech.Solutions.Domain.Catalog.Rating::get_id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Dev.Tech.Solutions.Domain.Catalog.Rating::get_Stars()": {
+          "Lines": {
+            "6": 2
+          },
+          "Branches": []
+        },
+        "System.String Dev.Tech.Solutions.Domain.Catalog.Rating::get_UserName()": {
+          "Lines": {
+            "7": 2
+          },
+          "Branches": []
+        },
+        "System.String Dev.Tech.Solutions.Domain.Catalog.Rating::get_Review()": {
+          "Lines": {
+            "8": 2
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Dev.Tech.Solutions.Domain.Catalog.Rating> Dev.Tech.Solutions.Domain.Catalog.Rating::get_Ratings()": {
+          "Lines": {
+            "9": 2
+          },
+          "Branches": []
+        },
+        "System.Void Dev.Tech.Solutions.Domain.Catalog.Rating::AddRating(Dev.Tech.Solutions.Domain.Catalog.Rating)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void Dev.Tech.Solutions.Domain.Catalog.Rating::.ctor(System.Int32,System.String,System.String)": {
+          "Lines": {
+            "15": 4,
+            "16": 3,
+            "17": 1,
+            "19": 1,
+            "20": 0,
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 21,
+              "EndOffset": 29,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 32,
+              "EndOffset": 46,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 19,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 54,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}
