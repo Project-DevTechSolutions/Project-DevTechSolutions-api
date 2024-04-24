@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Dev.Tech.Solutions.Data; 
 
-namespace Domain.tech.Solutions.Data 
+namespace Dev.Tech.Solutions.Data 
 {
     public class StoreContextFactory : IDesignTimeDbContextFactory<StoreContext>
     {

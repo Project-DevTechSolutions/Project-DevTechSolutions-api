@@ -45,15 +45,27 @@ C:/Users/ashpa/Documents/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.D
 /Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/refint/Dev.Tech.Solutions.Domain.dll
 /Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.pdb
 /Users/kirtanpatel/Desktop/ACCTMIS 4630/Lab 4/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/ref/Dev.Tech.Solutions.Domain.dll
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\bin\Debug\net8.0\Dev.Tech.Solutions.Domain.deps.json
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\bin\Debug\net8.0\Dev.Tech.Solutions.Domain.dll
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\bin\Debug\net8.0\Dev.Tech.Solutions.Domain.pdb
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.AssemblyInfoInputs.cache
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.AssemblyInfo.cs
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.csproj.CoreCompileInputs.cache
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.sourcelink.json
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.dll
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\refint\Dev.Tech.Solutions.Domain.dll
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\Dev.Tech.Solutions.Domain.pdb
-C:\Dev\Project-DevTechSolutions-api\Dev.Tech.Solutions.Domain\obj\Debug\net8.0\ref\Dev.Tech.Solutions.Domain.dll
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/bin/Debug/net8.0/Dev.Tech.Solutions.Domain.deps.json
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/bin/Debug/net8.0/Dev.Tech.Solutions.Domain.dll
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/bin/Debug/net8.0/Dev.Tech.Solutions.Domain.pdb
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.AssemblyInfoInputs.cache
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.AssemblyInfo.cs
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.csproj.CoreCompileInputs.cache
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.sourcelink.json
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.dll
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/refint/Dev.Tech.Solutions.Domain.dll
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.pdb
+C:/Dev/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/ref/Dev.Tech.Solutions.Domain.dll
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/bin/Debug/net8.0/Dev.Tech.Solutions.Domain.deps.json
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/bin/Debug/net8.0/Dev.Tech.Solutions.Domain.dll
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/bin/Debug/net8.0/Dev.Tech.Solutions.Domain.pdb
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.AssemblyInfoInputs.cache
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.AssemblyInfo.cs
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.csproj.CoreCompileInputs.cache
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.sourcelink.json
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.dll
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/refint/Dev.Tech.Solutions.Domain.dll
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/Dev.Tech.Solutions.Domain.pdb
+/Users/kirtanpatel/Desktop/ACCTMIS 4630/Project-DevTechSolutions-api/Dev.Tech.Solutions.Domain/obj/Debug/net8.0/ref/Dev.Tech.Solutions.Domain.dll
